@@ -1,3 +1,3 @@
-dbuser = "postgres"
-dbpasswd = "postgres"
+user = "postgres:"
+passwd = "postgres"
 dbname = "newsql_db"
