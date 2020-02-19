@@ -1,0 +1,4 @@
+host=localhost
+database=newsql_db
+user=postgres
+password=Kalauna1992
